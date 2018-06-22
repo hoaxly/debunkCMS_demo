@@ -1,0 +1,8 @@
+{
+  "name": "hoaxly/debunkcms_demo",
+  "description": "Provides demo content for the debunkCMS.",
+  "type": "drupal-module",
+  "version": "8.x-1.0",
+  "license": "GPL-2.0-or-later",
+  "require": {}
+}
