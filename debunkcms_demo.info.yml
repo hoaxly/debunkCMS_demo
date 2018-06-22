@@ -1,0 +1,9 @@
+name: debunkCMS Demo
+type: module
+description: Provides demo content.
+package: debunkCMS
+core: 8.x
+dependencies:
+  - better_normalizers:better_normalizers
+  - default_content:default_content
+  - drupal:help

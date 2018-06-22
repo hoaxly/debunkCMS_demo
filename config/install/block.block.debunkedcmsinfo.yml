@@ -1,0 +1,25 @@
+uuid: 84257732-b284-4abe-8df5-20212ff193b0
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:debunked_cms_info:ae37afd0-de67-415f-976e-30933d2f0ce5'
+  module:
+    - block_content
+  theme:
+    - debunked_theme
+id: debunkedcmsinfo
+theme: debunked_theme
+region: sidebar_first
+weight: -5
+provider: null
+plugin: 'block_content:ae37afd0-de67-415f-976e-30933d2f0ce5'
+settings:
+  id: 'block_content:ae37afd0-de67-415f-976e-30933d2f0ce5'
+  label: 'About this website'
+  provider: block_content
+  label_display: visible
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

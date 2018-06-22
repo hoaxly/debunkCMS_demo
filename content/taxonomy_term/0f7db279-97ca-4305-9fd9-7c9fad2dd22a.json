@@ -1,0 +1,69 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/taxonomy\/term\/9?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/taxonomy_term\/author"
+        }
+    },
+    "tid": [
+        {
+            "value": 9
+        }
+    ],
+    "uuid": [
+        {
+            "value": "0f7db279-97ca-4305-9fd9-7c9fad2dd22a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "author"
+        }
+    ],
+    "name": [
+        {
+            "value": "acolono GmbH",
+            "lang": "en"
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-06-22T21:10:53+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "metatag": [
+        {
+            "value": {
+                "title": "acolono GmbH | My Drupal 8 Site",
+                "canonical_url": "http:\/\/default\/taxonomy\/term\/9"
+            }
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ]
+}
